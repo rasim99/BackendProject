@@ -21,6 +21,11 @@ namespace BackendProject.DAL
 		public DbSet<FeaturesBanner> FeaturesBanners { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
+		public DbSet<ProductProductMenu> ProductProductMenus { get; set; }
+		public DbSet<About> Abouts { get; set; }
+		public DbSet<AboutItem> AboutItems { get; set; }
+		public DbSet<NewsLetter> NewsLetters { get; set; }
 
     }
 }

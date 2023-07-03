@@ -15,7 +15,8 @@ namespace BackendProject.ViewModels
         public List<FeaturesBanner> FeaturesBanners { get; set; }
         public List<Blog> Blogs { get; set; }
         public List<Testimonial> Testimonials { get; set; }
-
+        public List<ProductImage> ProductImages { get; set; }
+        public List<ProductProductMenu> ProductProductMenus { get; set; }
 
     }
 }

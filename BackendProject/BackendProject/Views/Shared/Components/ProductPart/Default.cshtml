@@ -1,0 +1,103 @@
+﻿@model HomeVM
+@{
+    Layout = null;
+}
+
+<section class="product-area pt-100 pb-100">
+    <div class="container-fluid custom-container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="product-menu pb-30">
+                    <ul class="nav justify-content-center" id="myTab" role="tablist">
+                        @foreach (var item in Model.ProductMenus)
+                        {
+                            <li class="nav-item" role="presentation">
+                                <a class="@(item.Title.ToLower()=="new"?"active":"") promenu" id="@item.Title.ToLower()-tab" data-toggle="tab" href="#@item.Title.ToLower()" role="tab" aria-controls="@item.Title.ToLower()">@item.Title.ToLower()</a>
+                            </li>
+
+                        }
+                    </ul>
+                </div> <!-- product menu -->
+            </div>
+
+        </div> <!-- row -->
+        <div class="tab-content" id="myTabContent">
+            @foreach (var item in Model.ProductMenus)
+            {
+                <div class="tab-pane fade show @(item.Title.ToLower() == "new" ? "active" : "")" id="@item.Title.ToLower()" role="tabpanel" aria-labelledby="@item.Title.ToLower()-tab">
+                    <div class="product-items">
+                        <div class="row product-active">
+
+
+                            @foreach (var productItem in Model.Products)
+                            {
+                                <div class="col-lg-2">
+                                    <div class="single-product mt-30">
+                                        <div class="product-image">
+                                            <a href="single-product.html">
+                                                <img class="first-image" src="~/images/product/@productItem.Images.FirstOrDefault(i=>i.Ismain).ImageUrl" alt="product">
+                                                <img class="second-image" src="~/images/product/@productItem.Images.FirstOrDefault(i=>!i.Ismain).ImageUrl" alt="product">
+                                            </a>
+                                            <ul class="product-meta">
+                                                <li><a href="#"><i class="icon ion-bag"></i></a></li>
+                                                <li><a href="#"><i class="icon ion-android-favorite-outline"></i></a></li>
+                                                <li><a href="#"><i class="icon ion-android-options"></i></a></li>
+                                                <li><a data-toggle="modal" data-target="#productQuickModal" href="#"><i class="icon ion-android-open"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="product-content">
+                                            <ul class="product-rating">
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                            <h4 class="product-title"><a href="single-product.html">@productItem.Title</a></h4>
+                                            <div class="product-price">
+                                                <span class="price-sale">@productItem.Price</span>
+                                            </div>
+                                        </div>
+                                    </div> <!-- single product -->
+
+                                    <div class="single-product mt-30">
+                                        <div class="product-image">
+                                            <a href="single-product.html">
+                                                <img class="first-image" src="~/images/product/@productItem.Images.FirstOrDefault(m=>m.Ismain).ImageUrl" alt="product">
+                                                <img class="second-image" src="~/images/product/@productItem.Images.FirstOrDefault(i=>!i.Ismain).ImageUrl" alt="product">
+                                            </a>
+                                            <ul class="product-meta">
+                                                <li><a href="#"><i class="icon ion-bag"></i></a></li>
+                                                <li><a href="#"><i class="icon ion-android-favorite-outline"></i></a></li>
+                                                <li><a href="#"><i class="icon ion-android-options"></i></a></li>
+                                                <li><a data-toggle="modal" data-target="#productQuickModal" href="#"><i class="icon ion-android-open"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="product-content">
+                                            <ul class="product-rating">
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                            </ul>
+                                            <h4 class="product-title"><a href="single-product.html">@productItem.Title</a></h4>
+                                            <div class="product-price">
+                                                <span class="price-sale">@productItem.Price</span>
+                                            </div>
+                                        </div>
+                                    </div> <!-- single product -->
+
+
+                                </div>
+                            }
+
+
+                        </div> <!-- row -->
+                    </div> <!-- product items -->
+                </div>
+            }
+
+        </div> <!-- tab content -->
+    </div> <!-- container -->
+</section>

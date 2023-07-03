@@ -1,0 +1,65 @@
+﻿@model AboutVM
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <!--====== Breadcrumb Part Start ======-->
+    <div class="breadcrumb-area">
+        <div class="container-fluid custom-container">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item active">About Us</li>
+                </ol>
+            </nav>
+        </div> <!-- container -->
+    </div>
+    <!--====== Breadcrumb Part Ends ======-->
+
+    <!--====== About Part Start ======-->
+    <section class="about-page pt-20">
+        <div class="container-fluid custom-container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="about-image mt-30">
+                        <img src="~/images/@Model.Abouts.ImageUrl" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="about-content mt-30">
+                        <h2 class="title">@Model.Abouts.Title</h2>
+                        <p>@Model.Abouts.Content</p>
+                    </div>
+                </div>
+            </div> <!-- row -->
+            <div class="about-items pt-20">
+                <div class="row">
+                @foreach(var item in Model.AboutItems)
+                {
+                    <div class="col-lg-4">
+                        <div class="about-item mt-30">
+                            <h4 class="title">@item.Title </h4>
+                           <p>@item.Content</p>
+                        </div> <!-- about item -->
+                    </div>
+
+                }
+            </div> <!-- row -->
+            </div>  <!-- about items -->
+        </div> <!-- container -->
+    </section>
+    <!--====== About Part Ends ======-->
+
+<!--====== Brand Part Start ======-->
+@await Component.InvokeAsync("Brand")
+<!--====== Brand Part Ends ======-->
+
+    <!--====== Features Banner Part Start ======-->
+     @await Component.InvokeAsync("Features")
+    <!--====== Features Banner Part Ends ======-->
+
+    <!--====== Newsletter Part Start ======-->
+    @await Component.InvokeAsync("NewsLetters")
+    <!--====== Newsletter Part Ends ======-->
+

@@ -1,4 +1,5 @@
 ﻿using BackendProject.DAL;
+using BackendProject.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BackendProject.ViewComponents
@@ -14,7 +15,10 @@ namespace BackendProject.ViewComponents
 
         public async Task<IViewComponentResult> InvokeAsync()
         {
+
             var bio = _appDbContext.Bios.FirstOrDefault();
+
+
             return View(await Task.FromResult(bio));
         }
     }

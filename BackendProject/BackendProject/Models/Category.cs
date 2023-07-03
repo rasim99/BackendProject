@@ -3,9 +3,8 @@
     public class Category
     {
         public int Id { get; set; }
-        public string TopImageUrl { get; set; }
-        public string TopTitle { get; set; }
-        public string BottomImageUrl { get; set; }
-        public string BottomTitle { get; set; }
+        public string Name { get; set; }
+        public string ImageUrl { get; set; }
+
     }
 }

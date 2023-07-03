@@ -1,6 +1,7 @@
 ﻿using BackendProject.DAL;
 using BackendProject.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace BackendProject.Controllers
 {
@@ -20,14 +21,22 @@ namespace BackendProject.Controllers
 			homeVM.Banners = _appDbContext.Banners.ToList();
 			homeVM.Categories = _appDbContext.Categories.ToList();
 			homeVM.ProductMenus = _appDbContext.ProductMenus.ToList();
-			homeVM.Products = _appDbContext.Products.ToList();
+
+			homeVM.Products = _appDbContext.Products
+				.Include(p=>p.Images)
+				.ToList();
+
+
 			homeVM.SpecialProducts = _appDbContext.SpecialProducts.ToList();
             homeVM.SpecialProductWrappers = _appDbContext.SpecialProductWrapper.ToList();
             homeVM.Brands = _appDbContext.Brands.ToList();
             homeVM.FeaturesBanners = _appDbContext.FeaturesBanners.ToList();
             homeVM.Blogs = _appDbContext.Blogs.ToList();
             homeVM.Testimonials = _appDbContext.Testimonials.ToList();
-
+			homeVM.ProductProductMenus = _appDbContext.ProductProductMenus
+				.Include(pm=>pm.ProductMenu)
+				.Include(p=>p.Product)
+				.ToList();
             return View(homeVM);
 		}
 	}

@@ -59,21 +59,19 @@
                 </div>
             </div> <!-- row -->
             <div class="row category-active">
-            @foreach (var item in Model.Categories)
+            @for (int i = 0; i < (int)Math.Ceiling((decimal)Model.Categories.Count() / 2); i++)
             {
                 <div class="col-lg-2">
-                    <div class="single-category text-center">
-                        <a target="_blank" href="shop-left-sidebar.html">
-                            <img src="~/images/@item.TopImageUrl" alt="category">
-                            <p>@item.TopTitle</p>
-                        </a>
-                    </div> <!-- single category -->
-                    <div class="single-category text-center">
-                        <a target="_blank" href="shop-left-sidebar.html">
-                            <img src="~/images/@item.BottomImageUrl" alt="category">
-                            <p>@item.BottomTitle</p>
-                        </a>
-                    </div> <!-- single category -->
+                    @foreach(var item in Model.Categories.Skip(i*2).Take(2))
+                    {
+                        <div class="single-category text-center">
+                            <a target="_blank" href="shop-left-sidebar.html">
+                                <img src="~/images/@item.ImageUrl" alt="category">
+                                <p>@item.Name</p>
+                            </a>
+                        </div> <!-- single category -->
+                    }
+
                 </div>
             }
         </div> <!-- row -->
@@ -81,100 +79,11 @@
     </section>
 
     <!--====== Category Part Ends ======-->
+<!--====== Product Part Start ======-->
+}
+   @await Component.InvokeAsync("ProductPart")
 
-    <!--====== Product Part Start ======-->
-
-    <section class="product-area pt-100 pb-100">
-        <div class="container-fluid custom-container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="product-menu pb-30">
-                        <ul class="nav justify-content-center" id="myTab" role="tablist">
-     @foreach(var item in Model.ProductMenus)
-                        {
-                              <li class="nav-item" role="presentation">
-                                <a class="active" id="new-tab" data-toggle="tab" href="@item.Title" role="tab" aria-controls="@item.Title" >@item.Title</a>
-                            </li>
-                        }
-
-                        </ul>
-                    </div> <!-- product menu -->
-                </div>
-            </div> <!-- row -->
-
-            <div class="tab-content" id="myTabContent">
-                <div class="tab-pane fade show active" id="new" role="tabpanel" aria-labelledby="new-tab">
-                    <div class="product-items">
-                        <div class="row product-active">
-                        @foreach(var item in Model.Products)
-                        {
-                            <div class="col-lg-2">
-                                <div class="single-product mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.FirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.SecondImageUrl" alt="product">
-                                        </a>
-                                        <ul class="product-meta">
-                                            <li><a href="#"><i class="icon ion-bag"></i></a></li>
-                                            <li><a href="#"><i class="icon ion-android-favorite-outline"></i></a></li>
-                                            <li><a href="#"><i class="icon ion-android-options"></i></a></li>
-                                            <li><a data-toggle="modal" data-target="#productQuickModal" href="#"><i class="icon ion-android-open"></i></a></li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i=1; i<=item.StarCount; i++)
-                                            {
-                                                 <li><i class="fas fa-star"></i></li>
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.Title</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.Price</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-
-                                <div class="single-product mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.BottomFirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.BottomSecondImageUrl" alt="product">
-                                        </a>
-                                        <ul class="product-meta">
-                                            <li><a href="#"><i class="icon ion-bag"></i></a></li>
-                                            <li><a href="#"><i class="icon ion-android-favorite-outline"></i></a></li>
-                                            <li><a href="#"><i class="icon ion-android-options"></i></a></li>
-                                            <li><a data-toggle="modal" data-target="#productQuickModal" href="#"><i class="icon ion-android-open"></i></a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                                         @for (int i=1; i<=item.BottomStarCount; i++)
-                                            {
-                                                 <li><i class="fas fa-star"></i></li>
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.BottomTitle</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.BottomPrice</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-                            </div>
-                        }
-
-                        </div> <!-- row -->
-                    </div> <!-- product items -->
-                </div>
-               
-            </div> <!-- tab content -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== Product Part Ends ======-->
+<!--====== Product Part Ends ======-->
 
     <!--====== Special Products Part Start ======-->
 
@@ -301,217 +210,11 @@
 
     <!--====== Special Products Part Ends ======-->
 
-    <!--====== Product Part Start ======-->
 
-    <section class="product-area pt-100">
-        <div class="container-fluid custom-container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="product-menu pb-30">
-                        <ul class="nav justify-content-center" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <a class="active" id="computer-tab" data-toggle="tab" href="#computer" role="tab" aria-controls="computer" aria-selected="true">Computer</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a id="smartphone-tab" data-toggle="tab" href="#smartphone" role="tab" aria-controls="smartphone" aria-selected="false">Smartphone</a>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <a id="game-tab" data-toggle="tab" href="#game" role="tab" aria-controls="game" aria-selected="false">Game Consoles</a>
-                            </li>
-                        </ul>
-                    </div> <!-- product menu -->
-                </div>
-            </div> <!-- row -->
-            <div class="tab-content">
-                <div class="tab-pane fade show active" id="computer" role="tabpanel" aria-labelledby="computer-tab">
-                    <div class="product-items">
-                        <div class="row product-active-2">
-                        @foreach (var item in Model.Products)
-                        {
-                            <div class="col-lg-4">
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.FirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.SecondImageUrl" alt="product">
-                                        </a>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.Title</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.Price</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.BottomFirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.BottomSecondImageUrl" alt="product">
-                                        </a>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.BottomTitle</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.BottomPrice</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-                            </div>
-
-                        }
-
-                    </div> <!-- row -->
-                    </div> <!-- product items -->
-                </div>
-                <div class="tab-pane fade" id="smartphone" role="tabpanel" aria-labelledby="smartphone-tab">
-                    <div class="product-items">
-                        <div class="row product-active-2">
-                        @foreach (var item in Model.Products)
-                        {
-                            <div class="col-lg-4">
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.FirstImageUrl" alt="product">
-                                        </a>
-                                        <span class="discount-product">-12%</span>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.Title</a></h4>
-                                        <div class="product-price">
-                                            <span class="regular-price">€@item.Price</span>
-                                            <span class="price-sale">€@item.BottomPrice</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.BottomFirstImageUrl" alt="product">
-                                        </a>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.BottomTitle</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.BottomPrice</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-                            </div>
-                        }
-
-                        </div> <!-- row -->
-                    </div> <!-- product items -->
-                </div>
-                <div class="tab-pane fade" id="game" role="tabpanel" aria-labelledby="game-tab">
-                    <div class="product-items">
-                        <div class="row product-active-2">
-                        @foreach(var item in Model.Products)
-                        {
-                            <div class="col-lg-4">
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.FirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.SecondImageUrl" alt="product">
-                                        </a>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.Title</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.Price</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-
-                                <div class="single-product product-list d-sm-flex flex-wrap align-items-center mt-30">
-                                    <div class="product-image">
-                                        <a href="single-product.html">
-                                            <img class="first-image" src="~/images/product/@item.BottomFirstImageUrl" alt="product">
-                                            <img class="second-image" src="~/images/product/@item.BottomSecondImageUrl" alt="product">
-                                        </a>
-                                    </div>
-                                    <div class="product-content">
-                                        <ul class="product-rating">
-                                            @for (int i = 1; i <= 5; i++)
-                                            {
-                                                <li class="rating-on"><i class="fas fa-star"></i></li>
-
-                                            }
-                                        </ul>
-                                        <h4 class="product-title"><a href="single-product.html">@item.BottomTitle</a></h4>
-                                        <div class="product-price">
-                                            <span class="price-sale">€@item.BottomPrice</span>
-                                        </div>
-                                    </div>
-                                </div> <!-- single product -->
-                            </div>
-
-                        }
-                    </div> <!-- row -->
-                    </div> <!-- product items -->
-                </div>
-            </div> <!-- tab content -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== Product Part Ends ======-->
 
     <!--====== Brand Part Start ======-->
+   @await Component.InvokeAsync("Brand")
 
-    <div class="brand-area pt-80">
-        <div class="container-fluid custom-container">
-            <div class="row brand-active">
-            @foreach(var item in Model.Brands)
-            {
-                <div class="col-lg-2">
-                    <div class="single-brand">
-                        <a href="#">
-                            <img src="~/images/brand/@item.ImageUrl" alt="brand">
-                        </a>
-                    </div> <!-- single brand -->
-                </div>
-            }
-        </div> <!-- row -->
-        </div> <!-- container -->
-    </div>
 
     <!--====== Brand Part Ends ======-->
 
