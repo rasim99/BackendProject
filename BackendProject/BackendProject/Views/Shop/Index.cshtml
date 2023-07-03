@@ -3,6 +3,21 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<!--====== Breadcrumb Part Start ======-->
+<div class="breadcrumb-area">
+    <div class="container-fluid custom-container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                <li class="breadcrumb-item"><a href="shop-left-sidebar.html">Shop</a></li>
+                <li class="breadcrumb-item active">Product Details</li>
+            </ol>
+        </nav>
+    </div> <!-- container -->
+</div>
+<!--====== Breadcrumb Part Ends ======-->
+
+<!--====== Single Product Part Start ======-->
 
 <section class="single-product-page pt-20">
     <div class="container-fluid custom-container">
@@ -153,8 +168,8 @@
 </section>
 
 <!--====== Single Product Part Ends ======-->
-<!--====== Product Description Part Start ======-->
 
+<!--====== Product Description Part Start ======-->
 <section class="product-description-area pt-50">
     <div class="container-fluid custom-container">
         <ul class="nav justify-content-center" id="myTab" role="tablist">
@@ -310,8 +325,8 @@
         </div> <!-- tab-content -->
     </div> <!-- container -->
 </section>
-
 <!--====== Product Description Part Ends ======-->
+
 <!--====== Product Part Start ======-->
 
 <section class="product-area pt-100">
@@ -537,16 +552,13 @@
 
 <!--====== Brand Part Start ======-->
 @await Component.InvokeAsync("Brand")
-
-
 <!--====== Brand Part Ends ======-->
+
 <!--====== Features Banner Part Start ======-->
 @await Component.InvokeAsync("Features")
-
-
 <!--====== Features Banner Part Ends ======-->
-<!--====== Newsletter Part Start ======-->
 
+<!--====== Newsletter Part Start ======-->
 @await Component.InvokeAsync("NewsLetters")
 <!--====== Newsletter Part Ends ======-->
 
