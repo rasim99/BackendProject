@@ -3,6 +3,7 @@
 namespace BackendProject.Areas.AdminArea.Controllers
 {
     [Area(nameof(AdminArea))]
+
     public class DashBoardController : Controller
     {
         public IActionResult Index()
