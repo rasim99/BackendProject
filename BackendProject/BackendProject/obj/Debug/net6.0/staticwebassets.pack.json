@@ -1,1039 +1,1047 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\css\\style.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\css\\style.css",
       "PackagePath": "staticwebassets\\admin\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\user.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\img\\user.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\js\\main.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\js\\main.js",
       "PackagePath": "staticwebassets\\admin\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\animate.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\animate.css",
       "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\bootstrap.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\default.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\default.css",
       "PackagePath": "staticwebassets\\css\\plugins\\default.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\fontawesome.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
       "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\ionicons.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\ionicons.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\ionicons.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\jquery-ui.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\slick.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\plugins\\slick.css",
       "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300d41d.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-light-300d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300d41d.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.eot",
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.svg",
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.ttf",
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\fonts\\ionicons28b5.woff",
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\author-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\author-1.png",
       "PackagePath": "staticwebassets\\images\\author-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-1.png",
       "PackagePath": "staticwebassets\\images\\banner-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-10.jpg",
       "PackagePath": "staticwebassets\\images\\banner-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-11.jpg",
       "PackagePath": "staticwebassets\\images\\banner-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-12.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-12.jpg",
       "PackagePath": "staticwebassets\\images\\banner-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-13.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-13.jpg",
       "PackagePath": "staticwebassets\\images\\banner-13.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-2.png",
       "PackagePath": "staticwebassets\\images\\banner-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-3.jpg",
       "PackagePath": "staticwebassets\\images\\banner-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-4.jpg",
       "PackagePath": "staticwebassets\\images\\banner-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-5.jpg",
       "PackagePath": "staticwebassets\\images\\banner-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-6.jpg",
       "PackagePath": "staticwebassets\\images\\banner-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-7.jpg",
       "PackagePath": "staticwebassets\\images\\banner-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-8.jpg",
       "PackagePath": "staticwebassets\\images\\banner-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-9.jpg",
       "PackagePath": "staticwebassets\\images\\banner-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon1.png",
       "PackagePath": "staticwebassets\\images\\banner-icon\\icon1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon2.png",
       "PackagePath": "staticwebassets\\images\\banner-icon\\icon2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon3.png",
       "PackagePath": "staticwebassets\\images\\banner-icon\\icon3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon4.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon4.png",
       "PackagePath": "staticwebassets\\images\\banner-icon\\icon4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon5.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-icon\\icon5.png",
       "PackagePath": "staticwebassets\\images\\banner-icon\\icon5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-image.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\banner-image.png",
       "PackagePath": "staticwebassets\\images\\banner-image.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-cound.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-cound.png",
       "PackagePath": "staticwebassets\\images\\bg-cound.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-footer.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-footer.jpg",
       "PackagePath": "staticwebassets\\images\\bg-footer.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-newletter.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg-newletter.jpg",
       "PackagePath": "staticwebassets\\images\\bg-newletter.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg_testimonial.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\bg_testimonial.jpg",
       "PackagePath": "staticwebassets\\images\\bg_testimonial.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-1.jpg",
       "PackagePath": "staticwebassets\\images\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-2.jpg",
       "PackagePath": "staticwebassets\\images\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-3.jpg",
       "PackagePath": "staticwebassets\\images\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\blog-4.jpg",
       "PackagePath": "staticwebassets\\images\\blog-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-1.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-2.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-3.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-4.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-5.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\brand\\brand-6.jpg",
       "PackagePath": "staticwebassets\\images\\brand\\brand-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-1.jpg",
       "PackagePath": "staticwebassets\\images\\category-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-10.jpg",
       "PackagePath": "staticwebassets\\images\\category-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-11.jpg",
       "PackagePath": "staticwebassets\\images\\category-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-12.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-12.jpg",
       "PackagePath": "staticwebassets\\images\\category-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-2.jpg",
       "PackagePath": "staticwebassets\\images\\category-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-3.jpg",
       "PackagePath": "staticwebassets\\images\\category-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-4.jpg",
       "PackagePath": "staticwebassets\\images\\category-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-5.jpg",
       "PackagePath": "staticwebassets\\images\\category-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-6.jpg",
       "PackagePath": "staticwebassets\\images\\category-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-7.jpg",
       "PackagePath": "staticwebassets\\images\\category-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-8.jpg",
       "PackagePath": "staticwebassets\\images\\category-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\category-9.jpg",
       "PackagePath": "staticwebassets\\images\\category-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\comment-author.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\comment-author.jpg",
       "PackagePath": "staticwebassets\\images\\comment-author.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\custom_banner.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\custom_banner.jpg",
       "PackagePath": "staticwebassets\\images\\custom_banner.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\flag\\1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\flag\\1.jpg",
       "PackagePath": "staticwebassets\\images\\flag\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\flag\\2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\flag\\2.jpg",
       "PackagePath": "staticwebassets\\images\\flag\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-1.png",
       "PackagePath": "staticwebassets\\images\\icon-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-2.png",
       "PackagePath": "staticwebassets\\images\\icon-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\icon-3.png",
       "PackagePath": "staticwebassets\\images\\icon-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\logo-white.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\logo-white.png",
       "PackagePath": "staticwebassets\\images\\logo-white.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\payment.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\payment.png",
       "PackagePath": "staticwebassets\\images\\payment.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-cart\\cart-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\images\\product-cart\\cart-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-cart\\cart-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\images\\product-cart\\cart-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-1.jpg",
       "PackagePath": "staticwebassets\\images\\product-quick\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-2.jpg",
       "PackagePath": "staticwebassets\\images\\product-quick\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-3.jpg",
       "PackagePath": "staticwebassets\\images\\product-quick\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-4.jpg",
       "PackagePath": "staticwebassets\\images\\product-quick\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product-quick\\product-5.jpg",
       "PackagePath": "staticwebassets\\images\\product-quick\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\0222f1a0-2786-435e-9926-cdccf0302b29ac00f87a-0a56-40bc-ad48-b20c995ad1dfblog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0222f1a0-2786-435e-9926-cdccf0302b29ac00f87a-0a56-40bc-ad48-b20c995ad1dfblog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\d6acf1f8-83cb-4482-b3f2-feb445409578blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d6acf1f8-83cb-4482-b3f2-feb445409578blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-12.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-13.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-13.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-13.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-14.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-14.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-14.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-15.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-15.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-15.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-16.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-16.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-16.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-17.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-17.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-17.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-1.jpg",
       "PackagePath": "staticwebassets\\images\\slider-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-2.jpg",
       "PackagePath": "staticwebassets\\images\\slider-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-3.jpg",
       "PackagePath": "staticwebassets\\images\\slider-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-4.jpg",
       "PackagePath": "staticwebassets\\images\\slider-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-5.jpg",
       "PackagePath": "staticwebassets\\images\\slider-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-6.jpg",
       "PackagePath": "staticwebassets\\images\\slider-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-7.jpg",
       "PackagePath": "staticwebassets\\images\\slider-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\slider-8.jpg",
       "PackagePath": "staticwebassets\\images\\slider-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-1.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-2.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-3.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-4.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-5.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-6.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-7.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\images\\special-products\\special-products-8.jpg",
       "PackagePath": "staticwebassets\\images\\special-products\\special-products-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\map-script.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\map-script.js",
       "PackagePath": "staticwebassets\\js\\map-script.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\bootstrap.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\jquery-ui.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\jquery.countdown.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\jquery.countdown.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\popper.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\slick.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\plugins\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\vendor\\modernizr-3.7.1.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\js\\vendor\\modernizr-3.7.1.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.7.1.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\plugins\\js\\ajax-contact.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\wwwroot\\plugins\\js\\ajax-contact.js",
       "PackagePath": "staticwebassets\\plugins\\js\\ajax-contact.js"
     },
     {

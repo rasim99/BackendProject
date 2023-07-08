@@ -8,6 +8,10 @@
 
         public List<ProductImage> Images { get; set; }
         public List<ProductProductMenu> ProductProductMenus { get; set; }
+        public Product()
+        {
+            Images = new List<ProductImage>();
+        }
 
     }
 }

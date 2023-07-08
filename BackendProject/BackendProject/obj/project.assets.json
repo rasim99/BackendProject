@@ -10748,11 +10748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\BackendProject.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\BackendProject.csproj",
       "projectName": "BackendProject",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\BackendProject.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\BackendProject.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\BackendProject\\BackendProject\\BackendProject\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\BackendProjectClone\\BackendProject\\BackendProject\\BackendProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,37 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackendProject
 build_property.RootNamespace = BackendProject
-build_property.ProjectDir = C:\Users\ASUS\Desktop\BackendProject\BackendProject\BackendProject\
+build_property.ProjectDir = C:\Users\ASUS\Desktop\BackendProjectClone\BackendProject\BackendProject\BackendProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\BackendProject\BackendProject\BackendProject
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\BackendProjectClone\BackendProject\BackendProject\BackendProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/About/Index.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Areas/AdminArea/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Areas/AdminArea/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFByb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Areas/AdminArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/Home/Index.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Footer/Default.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Brand/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnJhbmRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Features/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Header/Default.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/Header/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/Shared/_Layout.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/NewsLetters/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3c0xldHRlcnNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/Components/ProductPart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdFBhcnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/_ViewImports.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/BackendProject/BackendProject/BackendProject/Views/_ViewStart.cshtml]
+[C:/Users/ASUS/Desktop/BackendProjectClone/BackendProject/BackendProject/BackendProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -3456,6 +3456,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product-quick\product-5.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product\0222f1a0-2786-435e-9926-cdccf0302b29ac00f87a-0a56-40bc-ad48-b20c995ad1dfblog-feature-img-1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>BackendProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BackendProject</BasePath>
+      <RelativePath>images/product/0222f1a0-2786-435e-9926-cdccf0302b29ac00f87a-0a56-40bc-ad48-b20c995ad1dfblog-feature-img-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product\0222f1a0-2786-435e-9926-cdccf0302b29ac00f87a-0a56-40bc-ad48-b20c995ad1dfblog-feature-img-1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product\d6acf1f8-83cb-4482-b3f2-feb445409578blog-feature-img-1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>BackendProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BackendProject</BasePath>
+      <RelativePath>images/product/d6acf1f8-83cb-4482-b3f2-feb445409578blog-feature-img-1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product\d6acf1f8-83cb-4482-b3f2-feb445409578blog-feature-img-1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\product\product-1.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>BackendProject</SourceId>
